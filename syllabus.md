@@ -123,10 +123,11 @@ ANT Catalog: <https://www.eff.org/document/20131230-appelbaum-nsa-ant-catalog>
 ###1/28 - Initial introductions
 
 ###2/2 - Panopticism and the Sublime
-**Required reading:** Foucault, Michel. "The Birth of the Prison," *Discipline and Punish*. New York: Pantheon, 1977. Print.
+**Required reading:** Foucault, Michel. "The Birth of the Prison," *Discipline and Punish*. New York: Pantheon, 1977. Print. <http://foucault.info/documents/disciplineandpunish/foucault.disciplineandpunish.panopticism.html>
 
 ###2/4 - Post-panopticism
-**Required reading:** Deleuze, Gilles. Postscript on the Societies of Control: https://files.nyu.edu/dnm232/public/deleuze_postcript.pdf
+
+**Required reading:** Deleuze, Gilles. Postscript on the Societies of Control: https://files.nyu.edu/dnm232/public/deleuze_postcript.pdf  
 **Workshop:** WIFI sniffing and intervention with OpenWRT
 
 ###2/9 - Ubiquitous Computing  
