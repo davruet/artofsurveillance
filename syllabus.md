@@ -35,7 +35,7 @@ Students will:
 ##Law
 Big scary warning about the law: 
 
-Please, please, please, keep me informed about what kind of experiments you are planning if they involve computers you don't own. The space we're entering in this class is fraught, politically and legally. For artistic and academic reasons, the law can be a subject of interest. In addition, students must understand how the law might relate to their personal practice. Computer abuse laws are written broadly and enforced selectively. In this country's heightened climate of official anxiety, an aggressive prosecutor might consider the work of an artist as a threat to national security or social order. As a general rule, systems of power go to great lengths to protect what they consider vital infrastructure. Surveillance is considered an infrastructural pillar by the US government and others, as are computer networks. Computer networks are in general some of the most vulnerable and difficult to secure foundations of national infrastructure. Instead helping to build resilient technological defenses, which would make surveillance and other means of control more difficult, part of the federal government's strategy so far has been to use draconian legal measures against individuals it identifies as threats. Aaron Swartz, Kevin Mitnick, and a number of other so-called "hackers" have run afoul of the system, and have have been threatened or punished with prison sentences typically reserved for murderers. Prosecutors and the law do not distinguish civil disobedience from terrorist threats. In the case of networked computers, the legal line between speech and crime is very fuzzy. There are many things that might seem innocent, or protected by freedom of speech, that could actually land you decades in jail.
+Please, please, please, keep me informed about what kind of experiments you are planning **if they involve computers you don't own**. The space we're entering in this class is fraught, politically and legally. For artistic and academic reasons, the law can be a subject of interest. In addition, students must understand how the law might relate to their personal practice. Computer abuse laws are written broadly and enforced selectively. In this country's heightened climate of official anxiety, an aggressive prosecutor might consider the work of an artist as a threat to national security or social order. As a general rule, systems of power go to great lengths to protect what they consider vital infrastructure. Surveillance systems are considered an infrastructural pillar by the US government and others, as are computer networks in general. Computer networks are also some of the most vulnerable and difficult to secure foundations of national infrastructure. Instead of helping to build resilient technological defenses, which would make surveillance and other means of control more difficult, part of the federal government's strategy so far has been to use draconian legal measures against individuals it identifies as threats, to make examples of them. Aaron Swartz, Kevin Mitnick, Barrett Brown, and a number of other so-called "hackers" have run afoul of the system, and have have been threatened or punished with prison sentences typically reserved for murderers. Prosecutors and the law do not distinguish civil disobedience from terrorist threats. In the case of networked computers, the legal line between speech and crime is very fuzzy. There are many things that might seem innocent, or protected by freedom of speech, that could actually land you decades in jail.
 
 So, please, let's all try to stay out of federal prison.
 
@@ -45,9 +45,13 @@ The Critical Art Ensemble has a good analysis of Electronic Civil Disobedience:
 ##Course Requirements
 1. Initial 5-10 minute introductory presentation. Tell us about your background and artistic / academic practice. Due 1/28
 1. Completion of all required readings, participation in class discussions, and contribution of one independently researched topical reference outside of the reading per class discussion.
-1. Completion of an independently developed artistic or academic project, and participation in an in-class final critique of this project. Graduate thesis projects or advanced undergraduate projects developed for other classes can be used for this assignment, as long as two requirements are satisfied: **a.** students must inform the instructor that they are using the project to satisfy other academic requirements, and **b.** the project must substantially engage one or more of the major themes of this course. Written projects are acceptable, as long as they are presented to the class as a 20-minute lecture. Projects are due at the final critique, on 5/4 or 5/6
+1. Completion of an independently developed artistic or academic project, and participation in an in-class final critique of this project. Graduate thesis projects or advanced undergraduate projects developed for other classes can be used for this assignment, as long as two requirements are satisfied: **a.** students must inform the instructor that they are using the project to satisfy other academic requirements, and **b.** the project must substantially engage one or more of the major themes of this course. Written projects are acceptable, as long as they are presented to the class as a 20-minute lecture. Projects are due at the final critique, on 5/4 or 5/6.
 1. 15-minute in-class presentation of the research and ideas pertaining to the in-process final project. Due 3/2
 1. Group article presentation: Form a small group (2 or 3 students), select an article from the academic journal *Surveillance and Society* (or another short academic text of your choosing) and lead an in-class discussion of the text. Introduce the topic in a 10-minute mini-lecture that includes art-historical and technological references that contribute to the article. Presentation date will be arranged in consultation with the instructor, so that it can be paired with an existing topic.
+
+##Final Critique
+Students may opt to exhibit their final project in a public space of their choosing within the Chicago Loop. This is not a requirement, but it is encouraged. On 5/4 (and perhaps also on 5/6, depending on the number of public projects), we will walk from site to site to view and critique these public projects. Please feel free to invite anyone who might be interested in attending.
+
 
 ##Suggested reading / viewing
 Empson's 7 Types of Ambiguity: <https://www.youtube.com/watch?v=A7QULkgn3ho>
@@ -189,11 +193,11 @@ Crawford, Kate, "The Anxieties of Big Data", <http://thenewinquiry.com/essays/th
 ###4/8 - Oligopticism
 **Workshop:** Computer vision, Automated License Plate Recognition
 
-###4/13 - Final Project presentations, workshops and consulting
-###4/15 - Final Project presentations, workshops and consulting
+###4/13 - Final Project workshops and consulting
+###4/15 - Final Project workshops and consulting
 
-###4/20 - Final Project presentations, workshops and consulting
-###4/22 - Final Project presentations, workshops and consulting
+###4/20 - Final Project workshops and consulting
+###4/22 - Final Project workshops and consulting
 
 NO CLASS 4/27 and 4/29: CRITIQUE WEEK
 
