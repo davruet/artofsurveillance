@@ -66,6 +66,7 @@ Can you Hear Me?
 ###Heather Dewey-Hagborg
 
 
-##Academic Projects
+##Academic and Other Projects
 ###Art Traffic at the Louvre
-<http://senseable.mit.edu/louvre/>
+<http://senseable.mit.edu/louvre/>  
+The Social Life of Small Urban Spaces: <https://archive.org/details/SmallUrbanSpaces>
