@@ -129,27 +129,26 @@ ANT Catalog: <https://www.eff.org/document/20131230-appelbaum-nsa-ant-catalog>
 ###2/2 - Panopticism and the Sublime
 **Required reading:** Foucault, Michel. "The Birth of the Prison," *Discipline and Punish*. New York: Pantheon, 1977. Print. <http://foucault.info/documents/disciplineandpunish/foucault.disciplineandpunish.panopticism.html>
 
-###2/4 - Post-panopticism
+###2/9 - Post-panopticism
 
 **Required reading:** Deleuze, Gilles. Postscript on the Societies of Control: https://files.nyu.edu/dnm232/public/deleuze_postcript.pdf  
 **Workshop:** WIFI sniffing and intervention with OpenWRT
 
-###2/9 - Ubiquitous Computing  
+###2/11 - Ubiquitous Computing  
 **Required reading:** Critical Art Ensemble, "Electronic Civil Disobedience," *Electronic Civil Disobedience and Other Unpopular Ideas* <http://www.critical-art.net/books/ecd/ecd2.pdf>
 	
 **Workshop**: Arduino and ESP8266 wifi module
 	
-###2/11 - The Standard Object
+###2/16 - The Standard Object
 **Required reading:** Excerpts from Fuller, Matthew, and Malina, Roger, *Media Ecologies: Materialist Energies in Art and Technoculture.*
 
-###2/16 - Media Ecologies and Evil Media
+###2/18 - Media Ecologies and Evil Media
 **Required reading:** Excerpts from Fuller, Matthew, and Goffey, Andrew, *Evil Media*
 <http://www.spc.org/fuller/texts/towardsevil/>
-
-###2/18 - Media Ecologies and Evil Media
 **Workshop:** iPhone / android iBeacon detection/spoofing  
 
-###2/23 - Multiple Scales: The Stack and Global Computation
+###2/23 - Bio-Surveillance
+**Class visit: Heather Dewey-Hagborg**  
 **Required reading:** TBD
 
 ###2/25 - Multiple Scales: The Stack and Global Computation
