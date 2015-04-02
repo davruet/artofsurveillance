@@ -10,10 +10,16 @@ Connections:
 * ESP RX to Arduino RX
 * ESP CH_PD to battery 3.3V
 
+Arduino IDE setup:
+* Select Tools > Board > Generic ESP8266 board
+* Select Tools > Port > (your arduino USB port)
+* Select Tools > Programmer > esptool
 
-To put the ESP8266 into programming mode:
 
-* Connect ESP GPIO0 to GND and then reboot (remove ESP8266 ground and plug it back in)
+Every time you want to upload new code, do this:
+
+* Connect ESP GPIO0 to GND and then reboot (remove a battery and plug it back in)
+* Upload the code in processing
 * When programming finishes, unplug this connection (ESP GPIO0) and reboot again.
 
 ![Schematic](esp8266_schem.png)
